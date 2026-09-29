@@ -1,1 +1,1 @@
-# prova-html
+Cozinha de Casa é um site de receitas brasileiras feito para quem quer comer bem sem complicação. Aqui você encontra pratos de sobremesas de festa e bolos, todos com ingredientes fáceis de achar e passo a passo claro, do preparo ao forno.
